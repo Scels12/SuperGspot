@@ -82,7 +82,7 @@ const faq = [
   },
   {
     q: "Do you ship internationally?",
-    a: "Yes. Update this section with the countries you support, shipping costs, and estimated delivery times.",
+    a: "Potentially, yes. We plan to offer international shipping but it may be limited at launch. Please contact us with your location and we can provide more details.",
   },
 ];
 
