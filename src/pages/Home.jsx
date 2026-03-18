@@ -91,7 +91,7 @@ const cardClass =
 export default function Home() {
   return (
     <div className="min-h-screen bg-[#030712] text-white selection:bg-cyan-400/30">
-      <header className="mx-auto flex max-w-7xl items-center px-6 py-4 lg:px-8">
+      <header className="relative mx-auto flex max-w-7xl items-center px-6 py-4 lg:px-8">
         <a href="#home" className="flex items-center gap-3">
           <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-cyan-400 font-bold text-black">
             SGS
