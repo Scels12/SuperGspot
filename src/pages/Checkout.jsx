@@ -13,14 +13,14 @@ const addons = [
   {
     id: "indicator-harness",
     name: "Chassis Indicator Integration Harness",
-    price: 49,
+    price: 79,
     description:
       "Plug-and-play harness connecting your AE86's indicator lights directly to the digital dash.",
   },
   {
     id: "fuel-harness",
     name: "Fuel Level Plug & Play Harness",
-    price: 49,
+    price: 79,
     description:
       "Direct replacement harness for your OEM fuel sender. No splicing, no soldering required.",
   },
