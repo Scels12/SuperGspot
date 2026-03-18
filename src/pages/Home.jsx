@@ -1,15 +1,12 @@
 export default function Home() {
   return (
     <div className="mx-auto flex max-w-7xl items-center px-6 py-4 lg:px-8">
-        {/* LEFT: Logo */}
         <a href="#home" className="flex items-center gap-3">
             <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-cyan-400 font-bold text-black">
             SGS
             </div>
             <span className="text-xl font-semibold tracking-tight">SuperG-Spot</span>
-        </a>
-
-        {/* RIGHT: Nav + Button */}
+        </a> 
         <div className="ml-auto flex items-center gap-6">
             <nav className="hidden items-center gap-8 text-sm text-white/70 md:flex">
             <a href="#features" className="transition hover:text-white">Features</a>
