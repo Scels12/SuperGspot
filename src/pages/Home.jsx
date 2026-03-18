@@ -62,11 +62,11 @@ const included = [
 const faq = [
   {
     q: "Will this fit my specific AE86 model?",
-    a: "Yes. It is designed for AE86 Levin and Trueno models. Update this answer with any trim-specific fitment notes if needed.",
+    a: "Yes. It is designed for all AE86 models (both Trueno and Levin, 1983-1987).",
   },
   {
     q: "Do I need to modify my wiring?",
-    a: "No cutting or permanent wiring changes are required. The kit is designed as a plug-and-play installation using the included harness.",
+    a: "The kit is designed as a plug-and-play installation using the included harness, with minimal deutch plug change for the fuel sender.",
   },
   {
     q: "What sensors does it read?",
@@ -78,11 +78,15 @@ const faq = [
   },
   {
     q: "What about warranty and returns?",
-    a: "The layout currently shows a 3-year warranty and a 30-day money-back guarantee. Replace this with your real policy before launch.",
+    a: "We offer a 3-month warranty covering manufacturing defects. If you encounter any issues, please contact our support team for assistance. Returns are accepted within 30 days of purchase if the product is in like-new condition.",
   },
   {
     q: "Do you ship internationally?",
     a: "Potentially, yes. We plan to offer international shipping but it may be limited at launch. Please contact us with your location and we can provide more details.",
+  },
+  {
+    q: "Do you make versions for other cars?",
+    a: "Potentially, yes. We plan to offer additional models for other popular cars in the future based on demand. The AE86 was our starting point due to its iconic status and strong enthusiast community, but we have plans to expand to other 80s/90splatforms if there is interest.",
   },
 ];
 
