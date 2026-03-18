@@ -104,7 +104,7 @@ export default function Home() {
             <img
               src={logo}
               alt="SGS logo"
-              className="h-12 w-12 object-contain drop-shadow-[0_0_12px_rgba(34,211,238,0.5)]"
+              className="h-14 w-14 object-contain drop-shadow-[0_0_12px_rgba(34,211,238,0.5)]"
             />
             {/* <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-cyan-400 font-bold text-black">
               SGS
