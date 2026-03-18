@@ -99,7 +99,7 @@ export default function Home() {
             <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-cyan-400 font-bold text-black">
               SGS
             </div>
-            <span className="text-xl font-semibold tracking-tight">Super G Spot</span>
+            <span className="text-xl font-semibold tracking-tight">SuperG-Spot</span>
           </a>
 
           <div className="ml-auto flex items-center gap-4">
