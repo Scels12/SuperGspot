@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
+import logo from "../assets/SGSlogo.png";
 
 const addons = [
   {
