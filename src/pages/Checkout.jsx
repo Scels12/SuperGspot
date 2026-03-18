@@ -146,9 +146,11 @@ export default function Checkout() {
       <header className="sticky top-0 z-50 border-b border-white/5 bg-[#030712]/85 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
           <Link to="/" className="flex items-center gap-3">
-            <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-cyan-400 font-bold text-black">
-              SGS
-            </div>
+            <img
+                src={logo}
+                alt="SGS logo"
+                className="h-12 w-12 object-contain drop-shadow-[0_0_12px_rgba(34,211,238,0.5)]"
+              />
             <span className="text-xl font-semibold tracking-tight">
               SuperG-Spot
             </span>
