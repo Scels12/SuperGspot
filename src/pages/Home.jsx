@@ -161,7 +161,7 @@ export default function Home() {
               <Link
                 to="/checkout"
                 onClick={() => setMenuOpen(false)}
-                className="mt-2 rounded-2xl bg-cyan-400 px-6 py-3 text-center text-sm font-semibold text-black shadow-[0_0_30px_rgba(34,211,238,0.2)] transition hover:scale-[1.02]"
+                  className="mt-3 w-fit rounded-xl bg-cyan-400 px-5 py-2 text-sm font-semibold text-black shadow-md transition hover:scale-[1.02]"
               >
                 Buy Now
               </Link>
@@ -191,7 +191,7 @@ export default function Home() {
                 data, customizable layouts, and that unmistakable JDM soul.
               </p>
 
-              <div className="mt-10 flex flex-col gap-4 sm:flex-row">
+              {/* <div className="mt-10 flex flex-col gap-4 sm:flex-row">
                 <Link
                   to="/checkout"
                   className="rounded-2xl bg-cyan-400 px-8 py-4 text-center text-lg font-semibold text-black transition hover:scale-[1.02]"
@@ -205,7 +205,7 @@ export default function Home() {
                 >
                   Learn More
                 </a>
-              </div>
+              </div> */}
 
               <div className="mt-14 grid max-w-lg grid-cols-3 gap-6 border-t border-white/10 pt-8">
                 {[
