@@ -8,7 +8,7 @@ const addons = [
     name: "3D Printed Bezel",
     price: 180,
     description:
-      "Custom-fit OEM-style bezel for a seamless factory look. Printed in ABS with a textured matte finish.",
+      "Custom-fit OEM-style bezel for a seamless factory look. Printed in ASA with a textured matte finish.",
   },
   {
     id: "indicator-harness",
