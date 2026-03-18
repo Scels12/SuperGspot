@@ -4,6 +4,7 @@ import ae86 from "../assets/ae86.png";
 import box from "../assets/box.png";
 import ae86rear from "../assets/ae86rear.png";
 import zenkiCluster from "../assets/zenkiCluster.png";
+import logo from "../assets/SGSlogo.png";
 
 const features = [
   {
@@ -100,9 +101,14 @@ export default function Home() {
       <header className="sticky top-0 z-50 border-b border-white/10 bg-[#030712]/70 backdrop-blur-md">
         <div className="mx-auto flex max-w-7xl items-center px-6 py-4 lg:px-8">
           <a href="#home" className="flex items-center gap-3">
-            <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-cyan-400 font-bold text-black">
+            <img
+              src={logo}
+              alt="SGS logo"
+              className="h-8 w-8 rounded-xl object-contain"
+            />
+            {/* <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-cyan-400 font-bold text-black">
               SGS
-            </div>
+            </div> */}
             <span className="text-xl font-semibold tracking-tight">SuperG-Spot</span>
           </a>
 
