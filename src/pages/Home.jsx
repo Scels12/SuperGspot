@@ -66,7 +66,7 @@ const faq = [
   },
   {
     q: "Do I need to modify my wiring?",
-    a: "The kit is designed as a plug-and-play installation using the included harness, with minimal deutch plug change for the fuel sender.",
+    a: "The kit is designed as a plug-and-play installation using the included harness, with minimal deutch plug change for the fuel level sender.",
   },
   {
     q: "What sensors does it read?",
