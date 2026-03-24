@@ -387,7 +387,7 @@ export default function Home() {
             <div className="flex flex-col gap-8 lg:flex-row lg:items-start lg:justify-between">
               <div>
                 <div className="flex items-end gap-3">
-                  <span className="text-4xl font-bold tracking-tight sm:text-5xl">$699</span>
+                  <span className="text-4xl font-bold tracking-tight sm:text-5xl">$799</span>
                   <span className="mb-2 text-xl text-white/60">USD</span>
                 </div>
                 <p className="mt-4 text-xl text-white/65">

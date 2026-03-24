@@ -106,7 +106,7 @@ export default function Checkout() {
     notes: "",
   });
 
-  const basePrice = 699;
+  const basePrice = 799;
 
   const selectedAddonData = addons.filter((addon) =>
     selectedAddons.includes(addon.id)
